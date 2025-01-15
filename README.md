@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Citation
+## Citation (to be updated)
 
 > Dunant, A., Robinson, T. R., et al. (2024). Impacts from cascading multi-hazards using hypergraphs: a case study from the 2015 Gorkha earthquake in Nepal. *Journal Name*. DOI: [DOI Placeholder]
 
