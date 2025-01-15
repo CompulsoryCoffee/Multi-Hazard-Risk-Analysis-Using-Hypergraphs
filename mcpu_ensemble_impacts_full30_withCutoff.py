@@ -14,12 +14,11 @@ from mods_vulnerability_caseload_ensemble import *
 # Load datapath and datasets
 DIR = "./data"
 datadir = Path(DIR + '/shp')
-rasdir = Path(DIR + '/tif/robinson_ensemble_expanded')
-resdir = Path(DIR + '/results/robinson_ensemble/cutoff_0p1')
+rasdir = Path(DIR + '/tif/...')
+resdir = Path(DIR + '/results/....')
 
-# Gorkha test with cutoff
-rasdir = Path(DIR + '/tif/test_gorkha')
-resdir = Path(DIR + '/results/gorkha_with_cutoff')
+# Gorkha test
+rasdir = Path(DIR + '/tif/test_gorkha/...')
 
 list_rasters = [file for file in os.listdir(rasdir) if file.lower().endswith(".tif") and not file.startswith('._')]
 print(f'\n number of rasters: {len(list_rasters)} in {rasdir}')
