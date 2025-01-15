@@ -52,8 +52,6 @@ The code requires the following dependencies:
 - scipy
 - joblib
 
-Ensure you have these packages installed. The environment can be set up using a package manager like `pip` or `conda`.
-
 
 ## License
 
