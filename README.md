@@ -41,7 +41,7 @@ This project uses hypergraph theory to model and simulate the impacts of cascadi
 
 The code requires the following dependencies:
 
-- Python 3.8 or later
+- Python 3.10 or later
 - GDAL
 - GeoPandas
 - NumPy
