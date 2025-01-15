@@ -28,9 +28,6 @@ This project uses hypergraph theory to model and simulate the impacts of cascadi
    multi_hazard_hypergraph/
 ├── README.md               # Project documentation
 ├── LICENSE                 # License for the repository
-├── data/                   # Example datasets
-│   ├── example_input/      # Sample input files
-│   └── example_output/     # Expected output files
 ├── scripts/                # Python scripts for analysis
 │   ├── mcpu_ensemble_impacts_full30_withCutoff.py
 │   ├── mods_geom_ops.py
